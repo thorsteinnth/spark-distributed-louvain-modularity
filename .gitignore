@@ -1,3 +1,4 @@
 .gradle/
 build/
 stderr.txt
+dga-graphx/outputs/
